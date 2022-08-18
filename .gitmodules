@@ -1,0 +1,4 @@
+[submodule "datos7506site/public"]
+	path = datos7506site/public
+	url = git@github.com:datos7506-fiuba/datos7506-fiuba.github.io.git
+	branch = main
