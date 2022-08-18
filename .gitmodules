@@ -2,3 +2,7 @@
 	path = datos7506site/public
 	url = git@github.com:datos7506-fiuba/datos7506-fiuba.github.io.git
 	branch = main
+[submodule "datos7506site/themes/hugo-theme-docdock"]
+	path = datos7506site/themes/hugo-theme-docdock
+	url = git@github.com:vjeantet/hugo-theme-docdock.git
+	branch = main
