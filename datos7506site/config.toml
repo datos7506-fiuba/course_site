@@ -2,7 +2,7 @@ baseURL = "https://datos7506-fiuba.github.io/"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "Organización de Datos 75.06/95.58"
 theme = "hugo-theme-docdock"
 themesdir = "./themes"
 pygmentsCodeFences = true
@@ -47,24 +47,20 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
-pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+pre = "<h3>Drive</h3>"
+name = "<img src='/images/google-drive-brands.svg' color='white' height='20px' width='20px'  style='vertical-align:middle;margin:0px 5px'></img><label>Drive</label>"
 identifier = "ds"
 url = "https://github.com/vjeantet/hugo-theme-docdock"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud-download'></i> <label>Download</label>"
+name = "<i class='fa fa-slack'></i><label>Slack</label>"
 url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+name = "<i class='fa fa-users'></i> <label>Equipo</label>"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
 
-[[menu.shortcuts]]
-name = "<i class='fa fa-bullhorn'></i> <label>Credits</label>"
-url = "/credits"
-weight = 30
