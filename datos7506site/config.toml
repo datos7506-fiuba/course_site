@@ -61,6 +61,6 @@ weight = 11
 [[menu.shortcuts]]
 name = "<i class='fa fa-users'></i> <label>Equipo</label>"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
+url = "/"
 weight = 20
 
