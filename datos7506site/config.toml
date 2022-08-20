@@ -55,7 +55,7 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-slack'></i><label>Slack</label>"
-url = "organizaciondedatoshq.slack.com"
+url = "https://organizaciondedatoshq.slack.com"
 weight = 11
 
 [[menu.shortcuts]]
