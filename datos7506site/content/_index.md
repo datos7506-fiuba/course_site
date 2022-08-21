@@ -70,20 +70,8 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
     </div>
     <div class="instructor">
       <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/tomas_lorente.jpg"></div>
-      <div>Tomas Lorente</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/">
       <div class="instructorphoto"><img src="images/profiles/luis_paredes.jpg"></div>
       <div>Luis Paredes</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/nicolas_pinto.jpg"></div>
-      <div>Nicolas Pinto</div>
       </a>
     </div>
     <div class="instructor">
