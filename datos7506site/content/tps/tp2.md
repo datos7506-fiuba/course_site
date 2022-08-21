@@ -14,4 +14,6 @@ weight = 10
 
 # Enunciado
 
+{{% notice info %}}
 El enunciado todavía no se ha publicado.
+{{% /notice %}}

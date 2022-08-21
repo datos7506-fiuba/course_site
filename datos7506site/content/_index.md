@@ -3,6 +3,8 @@ title = "Home"
 description = "Home"
 +++
 
+<a href="https://fi.uba.ar"><img src="images/logo_fiuba_color.png" style="pointer-events: none; user-select: none;"></a>
+
 # Organización de Datos 75.06/95.58
 
 Bienvenidos a la página oficial del curso de la materia organización de datos (75.06/95.58) encabezado por Juan Manuel Rodriguez.
@@ -11,13 +13,13 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
 
 //TODO
 
-# Equipo
+## Equipo
 
 <head>
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-## Docentes
+### Docentes
 
 <div id="people">
   <div class="col-md-2">
@@ -82,27 +84,12 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
     </div>
     <div class="instructor">
       <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/empty_profile_photo.png"></div>
+      <div class="instructorphoto"><img src="images/profiles/francisco_pereira.jpg"></div>
       <div>Francisco Pereira</div>
       </a>
     </div>
   </div>
 </div>
-
-## Modalidad de cursada
-
-### Horarios:
-
-* Práctica: Martes 19:00 - 22:00 hs virtual
-* Teórica: Jueves 19:00 - 22:00 hs virtual
-
-### Régimen de aprobación:
-
-* 1 trabajo práctico durante la cursada (no hay reentrega)
-* 1 trabajo práctico durante la cursada (una reentrega)
-* Parcial. (2 recuperatorios)
-* 1 trabajo práctico final, con posibilidad de ser entregado en cualquier fecha de coloquio. (2 posibilidades de reentrega)
-* Defensa oral del último TP.
 
 ## Temario
 
@@ -118,8 +105,3 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
 - _Support vector machine_ (SVM)
 - Reducción de la dimensionalidad
 - Algoritmos genéticos
-
-## Recursos
-
-* [Guía de estudios](https://drive.google.com/drive/u/2/folders/16WyWC1HBv2dLF3rPTlhrK0OXw3G3hbhh)
-* [Libro: _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems (2019).pdf_](https://drive.google.com/file/d/1E1ZJVuvdqIEa82Y_GlPGJJRrhWR34ohL/view?usp=sharing)
