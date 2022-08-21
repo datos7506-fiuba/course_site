@@ -1,0 +1,27 @@
+  .instructorphoto img {
+    width: 120px;
+    border-radius: 100px;
+    margin: 1rem auto;
+  }
+  
+  article section.page img {
+    margin: 1rem auto;
+  }
+
+  .instructor {
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    vertical-align: top;
+  }
+
+  .layer {
+    width: 35px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
