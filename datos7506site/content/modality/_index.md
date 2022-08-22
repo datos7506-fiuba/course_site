@@ -22,5 +22,14 @@ rápidamente recursos con maquinas virtuales Jupyter o conjuntos de datos.
 
 ## Modalidad de evaluación
 
-Para aprobar la materia hay que completar 2 trabajos prácticos grupales y rendir un examen escrito, el cual se realizará de forma presencial.
+Se evaluará en todo momento del curso el manejo de conceptos, aplicación de conocimientos
+y dominio de técnicas mediante la resolución de problemas en las clases prácticas.
 
+Para aprobar la materia el alumno debe completar exitosamente las siguientes instancias de
+evaluación:
+1. Evaluación parcial escrita (presencial).
+2. Evaluación de dos trabajos prácticos en grupales.
+3. Evaluación Integradora (coloquio).
+
+Los exámenes parciales cuentan con dos instancias de recuperación y cada trabajo práctico
+con una posible reentrega.
