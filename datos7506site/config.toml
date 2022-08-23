@@ -47,6 +47,13 @@ home = [ "HTML", "RSS", "JSON"]
 
 
 [[menu.shortcuts]]
+pre = "<h3>Meet</h3>"
+name = "<img src='/images/google-meet-icon-2020.svg' color='white' height='20px' width='20px' style='vertical-align:middle;margin:0px 5px'></img> <label>Meet</label>"
+identifier = "meet"
+url = "https://meet.google.com/ghx-zpop-uwk"
+weight = 9
+
+[[menu.shortcuts]]
 pre = "<h3>Drive</h3>"
 name = "<img src='/images/google-drive-brands.svg' color='white' height='20px' width='20px'  style='vertical-align:middle;margin:0px 5px'></img><label>Drive</label>"
 identifier = "drive"
@@ -60,7 +67,6 @@ weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-users'></i> <label>Equipo</label>"
-identifier = "hugodoc"
+identifier = "equipo"
 url = "/#equipo"
 weight = 20
-

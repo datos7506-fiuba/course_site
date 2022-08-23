@@ -15,7 +15,7 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
 
 ## Descripción del curso
 
-//TODO 
+El propósito principal de este curso es enseñar y promover técnicas para el correcto análisis, visualización, procesamiento y entendimiento de diversos conjuntos de datos, incluido los llamados conjuntos de grandes datos (Big Data), utilizando para ello tecnologías de punta y métodos en el estado del arte. Durante el curso se explicará de forma teórica y práctica el funcionamiento e implementación de diversos modelos: predictivos, de clasificación y de agrupamiento. Se verán desde las técnicas más sencillas y antiguas hasta las más modernas y complejas.
 
 ## Equipo
 
