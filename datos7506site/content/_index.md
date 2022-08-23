@@ -88,6 +88,12 @@ Bienvenidos a la página oficial del curso de la materia organización de datos 
       <div>Francisco Pereira</div>
       </a>
     </div>
+    <div class="instructor">
+      <a href="/">
+      <div class="instructorphoto"><img src="images/profiles/axel_machado.jpg"></div>
+      <div>Axel Machado</div>
+      </a>
+    </div>
   </div>
 </div>
 
