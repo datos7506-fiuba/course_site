@@ -21,7 +21,7 @@ Los trabajos se realizarán en grupos de cuatro personas.
 
 ### Fechas Importantes:
 
-* 22/08/2022 - Presentación Enunciado TP 1
+* 20/09/2022 - Presentación Enunciado TP 1
 * 01/11/2022 – Fecha de Entrega TP1
 * 01/11/2022 - Presentación Enunciado TP2
 * 15/11/2022 - Fecha de Reentrega TP1
