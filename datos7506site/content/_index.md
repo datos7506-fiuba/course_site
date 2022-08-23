@@ -77,9 +77,9 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
       </a>
     </div>
     <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/matias_maidana.jpg"></div>
-      <div>Matias Maidana</div>
+      <a href="https://github.com/matias-gonz">
+      <div class="instructorphoto"><img src="images/profiles/matias_gonzalez.jpg"></div>
+      <div>Matias Gonzalez</div>
       </a>
     </div>
     <div class="instructor">
