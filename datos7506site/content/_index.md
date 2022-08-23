@@ -91,7 +91,7 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
     <div class="instructor">
       <a href="/">
       <div class="instructorphoto"><img src="images/profiles/axel_machado.jpg"></div>
-      <div>Axel Machado</div>
+      <div>Axel Perez Machado</div>
       </a>
     </div>
   </div>
