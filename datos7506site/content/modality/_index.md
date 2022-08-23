@@ -20,6 +20,9 @@ rápidamente recursos con maquinas virtuales Jupyter o conjuntos de datos.
 * Práctica: Martes 19:00 - 22:00 hs virtual
 * Teórica: Jueves 19:00 - 22:00 hs virtual
 
+{{% alert theme="info" %}}**Link a las clases:** https://meet.google.com/ghx-zpop-uwk{{% /alert %}}
+
+
 ## Modalidad de evaluación
 
 Se evaluará en todo momento del curso el manejo de conceptos, aplicación de conocimientos
