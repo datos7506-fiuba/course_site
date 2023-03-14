@@ -21,8 +21,12 @@ Los trabajos se realizarán en grupos de cuatro personas.
 
 ### Fechas Importantes:
 
-* 20/09/2022 - Presentación Enunciado TP 1
-* 01/11/2022 – Fecha de Entrega TP1
-* 01/11/2022 - Presentación Enunciado TP2
-* 15/11/2022 - Fecha de Reentrega TP1
-* 08/12/2022 - Fecha Entrega TP2
+* 21/03/2023 - Presentación Enunciado TP 1
+* 13/04/2023 - TP 1 Checkpoint 1
+* 27/04/2023 - TP 1 Checkpoint 2
+* 11/05/2023 - TP 1 Checkpoint 3
+* 18/05/2023 - Presentación TP2
+* 23/05/2023 - Parcial
+* 25/05/2023 – Fecha Limita de Entrega TP1
+* 22/06/2023 - Recuperatorio Parcial
+* 29/06/2023 - Fecha Limite de Entrega TP2

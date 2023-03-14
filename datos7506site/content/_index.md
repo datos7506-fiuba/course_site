@@ -34,14 +34,6 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
     <div class="instructor">
       <a href="/" target="_blank">
         <div class="instructorphoto">
-          <img class="img-hover" src="images/profiles/marcelo_benitez.jpg">
-        </div>
-      <div>Marcelo Benitez</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/" target="_blank">
-        <div class="instructorphoto">
           <img class="img-hover" src="images/profiles/azul_villanueva.jpg">
         </div>
       <div>Azul Villanueva</div>
@@ -51,13 +43,7 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
 
 ### Colaboradores
 
-  <div class="col-md-10">
-    <div class="instructor" style="vertical-align: top;">
-      <a href="https://dariusimp.github.io/">
-      <div class="instructorphoto"><img src="images/profiles/darius_maitia.jpg"></div>
-      <div>Darius Maitia</div>
-      </a>
-    </div>
+  <div class="col-md-10"> 
     <div class="instructor">
       <a href="/">
       <div class="instructorphoto"><img src="images/profiles/adrian_romero.jpg"></div>
@@ -70,17 +56,6 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
       <div>Nacho Velasco</div>
       </a>
     </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/luis_paredes.jpg"></div>
-      <div>Luis Paredes</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="https://github.com/matias-gonz">
-      <div class="instructorphoto"><img src="images/profiles/matias_gonzalez.jpg"></div>
-      <div>Matias Gonzalez</div>
-      </a>
     </div>
     <div class="instructor">
       <a href="/">
@@ -91,13 +66,7 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
     <div class="instructor">
       <a href="/">
       <div class="instructorphoto"><img src="images/profiles/axel_machado.jpg"></div>
-      <div>Axel Perez Machado</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/martin_andujar.jpg"></div>
-      <div>Martín Andujar</div>
+      <div>Axel Perez Machado</div> 
       </a>
     </div>
   </div>
