@@ -19,58 +19,51 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
 
 ## Equipo
 
-### Docentes
+  ### Docentes
 
-<div id="people">
-  <div class="col-md-2">
-    <div class="instructor" style="margin-bottom: 25px;">
-      <a href="/" target="_blank">
-        <div class="instructorphoto">
-          <img class="img-hover" src="images/profiles/juan_manuel_rodriguez.jpg">
-        </div>
-      <div>Juan Manuel Rodriguez</div>
-      </a>
+  <div id="people">
+    <div class="col-md-2">
+      <div class="instructor" style="margin-bottom: 25px;">
+        <a href="/" target="_blank">
+          <div class="instructorphoto">
+            <img class="img-hover" src="images/profiles/juan_manuel_rodriguez.jpg">
+          </div>
+        <div>Juan Manuel Rodriguez</div>
+        </a>
+      </div>
+      <div class="instructor">
+        <a href="/" target="_blank">
+          <div class="instructorphoto">
+            <img class="img-hover" src="images/profiles/azul_villanueva.jpg">
+          </div>
+        <div>Azul Villanueva</div>
+        </a>
+      </div>
     </div>
-    <div class="instructor">
-      <a href="/" target="_blank">
-        <div class="instructorphoto">
-          <img class="img-hover" src="images/profiles/azul_villanueva.jpg">
-        </div>
-      <div>Azul Villanueva</div>
-      </a>
+
+  ### Colaboradores
+  <div>
+    <div class="col-md-10"> 
+      <div class="instructor">
+        <a href="/">
+        <div class="instructorphoto"><img src="images/profiles/nacho_velasco.jpg"></div>
+        <div>Nacho Velasco</div>
+        </a>
+      </div>
+      <div class="instructor">
+        <a href="/">
+        <div class="instructorphoto"><img src="images/profiles/francisco_pereira.jpg"></div>
+        <div>Francisco Pereira</div>
+        </a>
+      </div>
+      <div class="instructor">
+        <a href="/">
+        <div class="instructorphoto"><img src="images/profiles/axel_machado.jpg"></div>
+        <div>Axel Perez Machado</div> 
+        </a>
+      </div>
     </div>
   </div>
-
-### Colaboradores
-
-  <div class="col-md-10"> 
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/adrian_romero.jpg"></div>
-      <div>Adrián Romero</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/nacho_velasco.jpg"></div>
-      <div>Nacho Velasco</div>
-      </a>
-    </div>
-    </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/francisco_pereira.jpg"></div>
-      <div>Francisco Pereira</div>
-      </a>
-    </div>
-    <div class="instructor">
-      <a href="/">
-      <div class="instructorphoto"><img src="images/profiles/axel_machado.jpg"></div>
-      <div>Axel Perez Machado</div> 
-      </a>
-    </div>
-  </div>
-</div>
 
 ## Temario
 
