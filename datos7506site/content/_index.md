@@ -62,6 +62,12 @@ El propósito principal de este curso es enseñar y promover técnicas para el c
         <div>Axel Perez Machado</div> 
         </a>
       </div>
+      <div class="instructor">
+        <a href="/">
+        <div class="instructorphoto"><img src="images/profiles/gabriel_bedoya.jpg"></div>
+        <div>Gabriel Bedoya</div> 
+        </a>
+      </div>
     </div>
   </div>
 
